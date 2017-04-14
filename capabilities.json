@@ -31,7 +31,9 @@
                         "to": "Values"
                     },
                     "dataReductionAlgorithm": {
-                        "top": {}
+                        "top": {
+                           "count": 5000
+                        }
                     }
                 },
                 "values": {
